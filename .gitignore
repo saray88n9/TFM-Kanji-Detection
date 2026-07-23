@@ -1,0 +1,36 @@
+# Dataset
+Dataset_preparados/
+
+# Resultados
+resultados/
+
+# Carpetas de resultados de entrenamiento
+**/runs/
+
+# Modelos
+*.pt
+
+# Archivos comprimidos
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos internos del repositorio Mamba-YOLO original
+Mamba-YOLO/.gitignore
+Mamba-YOLO/LICENSE
+Mamba-YOLO/README.md
+Mamba-YOLO/asserts/
+Mamba-YOLO/selective_scan/
+Mamba-YOLO/tests/
+Mamba-YOLO/ultralytics/
+
+# Archivo temporal de nano
+*.save
+# Archivos de prueba del repositorio original Mamba-YOLO
+Mamba-YOLO/pyproject.toml
+Mamba-YOLO/test_mambayolo*.py
