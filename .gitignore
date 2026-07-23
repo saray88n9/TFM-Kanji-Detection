@@ -33,4 +33,4 @@ Mamba-YOLO/ultralytics/
 *.save
 # Archivos de prueba del repositorio original Mamba-YOLO
 Mamba-YOLO/pyproject.toml
-Mamba-YOLO/test_mambayolo*.py
+
