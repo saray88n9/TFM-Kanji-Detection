@@ -89,7 +89,7 @@ Los experimentos realizados permiten comparar el rendimiento de diferentes model
 Los resultados detallados y el análisis de las métricas obtenidas se encuentran descritos en la memoria del Trabajo Final de Máster.
 
 
-AUTOR
+AUTORA
 
 Natalia Alvarado
 
